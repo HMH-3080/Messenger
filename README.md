@@ -1,4 +1,4 @@
-# Messenger Pub/Sub 🚀
+# Messenger Pub/Sub 
 
 نظام **Message Broker** مصغر مبني بلغة **Elixir**، بيعتمد على نمط الـ **Pub/Sub** لإدارة الرسايل بين الـ Processes بشكل Async ومنظم.
 
